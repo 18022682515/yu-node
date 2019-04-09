@@ -1,4 +1,5 @@
 # yu-node
+  *仅用于node.js*
   
 # 安装
 ```javascript
