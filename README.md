@@ -1,6 +1,6 @@
 # yu-node
-  *仅用于node.js*
-  
+  *仅用于node*
+    
 # 安装
 ```javascript
 npm install yu-node --save
