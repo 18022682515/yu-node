@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "邓小宇",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18022682515/yu-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/18022682515/yu-node/issues"
+  },
+  "homepage": "https://github.com/18022682515/yu-node#readme"
 }
