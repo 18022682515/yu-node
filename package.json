@@ -1,6 +1,6 @@
 {
   "name": "yu-node",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "仅用于node.js",
   "main": "index.js",
   "scripts": {
