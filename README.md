@@ -55,7 +55,7 @@ app.use( session({
 }) );
 ```
 
-### `token()`：koa的csrf令牌中间件(防止csrf攻击)
+### `token()`：koa的csrf令牌中间件(防止csrf攻击)，启用该中间件后，能在ctx.session['_csrf']和ctx.cookies.get('_csrf')获取到令牌
 ```javascript
 app.use( token() );
 ```
